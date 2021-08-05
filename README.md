@@ -1,6 +1,6 @@
 
-<h1> 👋 Oi, Seja Bem vindo </h1>
-<h2>  Meu nome é Jean da Costa </h2>
+<h1>Seja Bem vindo! 👋<br>
+  Meu nome é Jean da Costa </h1>
 
 <div>
   <a href="https://github.com/JeandaCosta">
@@ -23,8 +23,9 @@
   <img align="center" alt="Jean-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg">
   <img align="center" alt="Jean-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Jean-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  
 </div><br>
+
+##
   
 <div>
   <p> <strong> Comecei a me interessar por informática desde cedo, e consquistei um amplo conhecimento em Infraestrutura, Hardware e Redes, (T.I, Operador CPD no Geral). Me  Formei em Sistemas de Informação e estou dando um passo a mais na carreira e me dedicando a programação e desenvolvimento de software </strong></p> 

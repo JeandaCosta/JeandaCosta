@@ -28,7 +28,7 @@
 ##
   
 <div>
-  <p> <strong> Comecei a me interessar por informática desde cedo, e consquistei um amplo conhecimento em Infraestrutura, Hardware e Redes, (T.I, Operador CPD no Geral). Me  Formei em Sistemas de Informação e estou dando um passo a mais na carreira e me dedicando a programação e desenvolvimento de software </strong></p> 
+  <p> <strong> Comecei a me interessar por informática desde cedo, e conquistei um amplo conhecimento em Infraestrutura, Hardware e Redes, (T.I, Operador CPD no Geral). Me  Formei em Sistemas de Informação e estou dando um passo a mais na carreira e me dedicando a programação e desenvolvimento de software </strong></p> 
 </div>
 
 <div>
@@ -37,7 +37,7 @@
 
 <div>
   <strong>
-    <p>Línguagens e Tecnologias em Foco: </p>
+    <p>Linguagens e tecnologia em foco: </p>
     <ul>
       <li>HTML</li>
       <li>CSS</li>

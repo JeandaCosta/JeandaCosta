@@ -22,7 +22,7 @@
 ##
   
 <div>
-  <p> <strong> Comecei a me interessar por informática desde cedo, e conquistei um amplo conhecimento em Infraestrutura, Hardware e Redes, (T.I, Operador CPD no Geral). Me  Formei em Sistemas de Informação e estou dando um passo a mais na carreira e me dedicando a programação e desenvolvimento de software </strong></p> 
+  <p> <strong> Comecei a me interessar por informática desde cedo, e conquistei um amplo conhecimento em Infraestrutura, Hardware e Redes, (T.I, Operador CPD no Geral). Me  Formei em Sistemas de Informação e estou dando um passo a mais na carreira e me dedicando a programação e desenvolvimento de softwares. </strong></p> 
 </div>
 
 <div>
@@ -36,9 +36,7 @@
       <li>HTML</li>
       <li>CSS</li>
       <li>JavaScript</li><br>
-      
       <li>Python</li><br>
-      
       <li>Dart</li>     
       <li>Flutter</li>
     </ul>
